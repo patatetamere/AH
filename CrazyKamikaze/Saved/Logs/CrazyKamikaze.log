@@ -1069,3 +1069,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.04-13.05.26:846][  0]LogAssetRegistry: Asset discovery search completed in 7.2117 seconds
 [2022.04.04-13.05.26:848][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2022.04.04-13.05.26:848][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.04.04-13.09.36:033][357]LogActorFactory: Actor Factory created Cube
+[2022.04.04-13.09.36:544][415]LogActorFactory: Actor Factory created Cube
+[2022.04.04-13.09.43:895][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.04.04-13.09.45:583][229]LogSlate: Window 'Save Content' being destroyed
+[2022.04.04-13.09.45:595][229]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.04-13.09.45:621][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.04.04-13.09.45:667][229]LogSavePackage: Moving '../../../../../Users/a_morin16/Desktop/AH/CrazyKamikaze/Saved/FlyingExampleMapF82A97DE48B573C7CDE6CDBE1A74C521.tmp' to '../../../../../Users/a_morin16/Desktop/AH/CrazyKamikaze/Content/FlyingBP/Maps/FlyingExampleMap.umap'
+[2022.04.04-13.09.45:671][229]LogFileHelpers: Saving map 'FlyingExampleMap' took 0.055
+[2022.04.04-13.09.45:682][229]AssetCheck: New page: Asset Save: FlyingExampleMap
+[2022.04.04-13.09.45:682][229]LogContentValidation: Display: Validating World /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap
